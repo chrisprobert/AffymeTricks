@@ -4,7 +4,7 @@ import operator
 
 """
 
-Main program of the modular AffymeTricks package.
+An example program using the modular AffymeTricks package.
 Designed to allow modular expansion by providing object
 based access and integration of different data sources
 
